@@ -1,11 +1,11 @@
 # Define UI for app ----
 ui <- fluidPage(
   
-  setBackgroundColor(
-    color = c("#F7FBFF", "#e6e6fa"),
-    gradient = "linear",
-    direction = "bottom"
-  ),
+#  setBackgroundColor(
+#    color = c("#F7FBFF", "#e6e6fa"),
+#    gradient = "linear",
+#    direction = "bottom"
+#  ),
   
   # App title ----
   titlePanel("Technical Pricing Dashboard"),
